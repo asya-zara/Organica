@@ -1,6 +1,6 @@
 # Project Organica.
-##one-page landing
+## one-page landing
 tech include:
--HTML/CSS
--PixelPerfect
-Preview: https://alexcrive.github.io/Organic/
+- HTML/CSS
+- PixelPerfect
+Preview: https://asya-zara.github.io/Organica/
